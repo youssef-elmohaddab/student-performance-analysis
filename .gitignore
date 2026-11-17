@@ -1,0 +1,4 @@
+<CodeBlock language="gitignore" editable>
+# Virtual environment
+.venv/
+venv/
